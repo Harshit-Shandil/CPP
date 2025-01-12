@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 
-{     // 
+{      
     
     // int arr[4]={10,30,40,50};
 

@@ -1,2 +1,3 @@
 # CPP
-Practice
+Array using C++
+Basic logics

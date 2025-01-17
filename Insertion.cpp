@@ -42,7 +42,7 @@ class Linkedlist{
         void print(){
             Node *temp=head;
             if(head==NULL){
-                cout <<"List empty"<<endl;
+                cout <<"Getting empty LIST"<<endl;
                 return;
             }
 

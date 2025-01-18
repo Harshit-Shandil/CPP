@@ -31,7 +31,7 @@ int main()
         sum=sum+arr[i];
         // count++;
         // cout<<count<<" ";
-        cout<<"sum"<<sum<<endl;
+        //cout<<"sum"<<sum<<endl;
     }
     cout<<"sum:"<<sum<<endl;
     

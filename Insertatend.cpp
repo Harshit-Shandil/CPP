@@ -58,7 +58,7 @@ int main()
     insertatend(&head,30);
     insertatend(&head,40);
 
-    cout<<"Inserted at END :Elements of linked list are: "<<endl;
+    cout<<"Inserted at END :Elements of linked list are:"<<endl;
     print(head);
     cout<<endl;
     
